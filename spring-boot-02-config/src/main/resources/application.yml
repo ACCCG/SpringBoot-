@@ -1,0 +1,5 @@
+server:
+  port: 8080
+
+person:
+  # 这样的写法更加简单易读
